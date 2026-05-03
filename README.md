@@ -30,6 +30,3 @@ Because the tree dataset is so comprehensive, I'd like to keep exploring it and 
 - Allow users to enter two addresses and be able to see the number and species of the trees along their route
 
 #### Hope you enjoy the pink blooms this year or next!
-
-
-```
