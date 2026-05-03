@@ -2,8 +2,7 @@
 
 ![Cherry Blossoms](snapshot-map.jpg) 
 
-#### Check out the interactive map: 
-https://greciawhite.github.io/cambridge-cherry-tree-bike-map/ 
+#### Check out the interactive map: https://greciawhite.github.io/cambridge-cherry-tree-bike-map/ 
 
 This project builds on the assignment I completed as part of the Python course taught by the folks at Spatial Thoughts where we learned how to access data via APIs and analyze and visualise it using pandas. 
 
